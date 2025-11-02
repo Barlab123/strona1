@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+    <language type="compiled">
+        <name>C++</name>
+        <author>Bjarne Stroustrup</author>
+        <year>1985</year>
+    </language>
+    <language type="interpreted">
+        <name>Python</name>
+        <author>Guido van Rossum</author>
+        <year>1991</year>
+    </language>
+    <language type="compiled">
+        <name>Java</name>
+        <author>James Gosling</author>
+        <year>1995</year>
+    </language>
+    <language type="compiled">
+        <name>Go</name>
+        <author>Google</author>
+        <year>2009</year>
+    </language>
+</languages>
