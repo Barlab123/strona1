@@ -1,1 +1,15 @@
+.dataPage {
+    border: 1px solid black;
 
+}
+
+.dataPage th,
+.dataPage td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.dataPage th {
+    color: white;
+    background-color: black;
+}
